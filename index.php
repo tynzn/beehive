@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" />
     <link href="fontawesome/css/all.min.css" rel="stylesheet" />
     <link href="css/templatemo-comparto.css" rel="stylesheet" />
-    <title>Comparto HTML CSS Template</title>
+    <title>Bee Hive Stores</title>
 <!--
 
 Comparto TemplateMo
@@ -368,5 +368,6 @@ https://templatemo.com/tm-544-comparto
             });
         });
     </script>
+    <div style="position: relative;bottom: 0;left: 0;" id="juicier-container" data-account-id="y5kUrMwLGhMuFZhIpZnghqcLeHH3"><a style="font-size: 8px;color: #19191f36;text-decoration: none;" href="https://prooffactor.com" target="_blank">Powered by ProofFactor - Social Proof Notifications</a></div><script type="text/javascript" src="https://cdn.prooffactor.com/javascript/dist/1.0/jcr-widget.js?account_id=y5kUrMwLGhMuFZhIpZnghqcLeHH3"></script>
 </body>
 </html>
