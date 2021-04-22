@@ -71,6 +71,13 @@ https://templatemo.com/tm-544-comparto
                     </br>So much Quality For Less </a> </br>
                 </br>Limited Stock Available on Bee Hive Store.</p>
                     <p>Original And durable watch buckle</p>
+
+                    </br>
+                    <p>
+                        SALES Price N19,500
+                        </br>
+                        Not <strike>N30,000</strike>
+                    </p>
                     
                     <a href="#services" class="tm-btn tm-btn-1 tm-link-to-services">ORDER NOW</a>
                 </article>
@@ -367,7 +374,6 @@ https://templatemo.com/tm-544-comparto
                 $this.addClass("active");
             });
         });
-    </script>
-    <div style="position: relative;bottom: 0;left: 0;" id="juicier-container" data-account-id="y5kUrMwLGhMuFZhIpZnghqcLeHH3"><a style="font-size: 8px;color: #19191f36;text-decoration: none;" href="https://prooffactor.com" target="_blank">Powered by ProofFactor - Social Proof Notifications</a></div><script type="text/javascript" src="https://cdn.prooffactor.com/javascript/dist/1.0/jcr-widget.js?account_id=y5kUrMwLGhMuFZhIpZnghqcLeHH3"></script>
-</body>
+    </script><script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-b697a70d-35b4-4ea6-abce-29cb5b4cd6a3"></div></body>
 </html>
