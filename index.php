@@ -79,7 +79,7 @@ https://templatemo.com/tm-544-comparto
                         Not <strike>N30,000</strike>
                     </p>
                     
-                    <a href="#services" class="tm-btn tm-btn-1 tm-link-to-services">ORDER NOW</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link" class="tm-btn tm-btn-1 tm-link-to-services">ORDER NOW</a>
                 </article>
             </div>
          <section class="tm-bg-color-4 tm-mb-3 tm-gallery-section" id="gallery">
@@ -95,7 +95,7 @@ https://templatemo.com/tm-544-comparto
                                     <figcaption>
                                         <h2>Pro <span>Display</span></h2>
                                         <p>You can make your artwork gallery.</p>
-                                        <a href="#">View more</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">View more</a>
                                     </figcaption>
                                 </figure>
                             </div>
@@ -105,7 +105,7 @@ https://templatemo.com/tm-544-comparto
                                     <figcaption>
                                         <h2>The <span>Nature</span></h2>
                                         <p>You can create your own HTML website.</p>
-                                        <a href="#">View more</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">View more</a>
                                     </figcaption>
                                 </figure>
                             </div>
@@ -115,7 +115,7 @@ https://templatemo.com/tm-544-comparto
                                     <figcaption>
                                         <h2>Color <span>Art</span></h2>
                                         <p>You can create your own CSS website.</p>
-                                        <a href="#">View more</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">View more</a>
                                     </figcaption>
                                 </figure>
                             </div>
@@ -125,7 +125,7 @@ https://templatemo.com/tm-544-comparto
                                     <figcaption>
                                         <h2>Take it <span>easy</span></h2>
                                         <p>You can create your own art gallery.</p>
-                                        <a href="#">View more</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">View more</a>
                                     </figcaption>
                                 </figure>
                             </div>
@@ -139,7 +139,7 @@ https://templatemo.com/tm-544-comparto
         <div class="tm-bg-color-1 tm-mb-1 tm-row tm-social-row">
             <div class="tm-icon">
                 <div class="tm-icon-inner">
-                    <a href="#services">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">
                         <i class="fas fa-bus fa-4x tm-mb-1"></i>
                         <p>Free Delivery within lagos 2-3 work days</p>
                     </a>
@@ -147,15 +147,15 @@ https://templatemo.com/tm-544-comparto
             </div>
             <div class="tm-icon">
                 <div class="tm-icon-inner">
-                    <a href="#gallery">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">
                         <i class="fas fa-money-bill fa-4x tm-mb-1"></i>
-                        <p>Cash on Delivery </p>
+                        <p>Cash on Delivery  Order Now</p>
                     </a>
                 </div>
             </div>
             <div class="tm-icon">
                 <div class="tm-icon-inner">
-                    <a href="#contact">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">
                         <i class="fas fa-images fa-4x tm-mb-1"></i>
                         <p>30 days money back guarantee</p>
                     </a>
@@ -175,7 +175,7 @@ https://templatemo.com/tm-544-comparto
                 </article>
                 <div class="tm-bg-color-7 tm-em-box">
                     <p class="tm-text-color-2"><i>So a decided to gift my Boo this timepiece for his birthday and he would not stop thanking me another thing is i really give it to your customer care team at Bee Hive, you guys rock</i></p> <p>Mrs Blessing C. Ejigbo.lagos</p>
-                    <a href="#gallery" class="tm-btn tm-btn-2">Order Yours While Stock Last</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link" class="tm-btn tm-btn-2">Order Yours While Stock Last</a>
                 </div>
             </div>
            
@@ -200,7 +200,7 @@ https://templatemo.com/tm-544-comparto
                             <figcaption>
                                 <h2>Masculine <span></span></h2>
                                 <p>A watch for the true man essence.</p>
-                                <a href="#">Order Now</a>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">Order Now</a>
                             </figcaption>
                         </figure>
                     </div>
@@ -210,7 +210,7 @@ https://templatemo.com/tm-544-comparto
                             <figcaption>
                                 <h2>Back Shot</h2>
                                 <p>Giving You an authentic watch look.</p>
-                                <a href="#">View more</a>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">View more</a>
                             </figcaption>
                         </figure>
                     </div>
@@ -220,7 +220,7 @@ https://templatemo.com/tm-544-comparto
                             <figcaption>
                                 <h2>Authentic <span>Buckle</span></h2>
                                 <p>.</p>
-                                <a href="#">Order Now</a>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">Order Now</a>
                             </figcaption>
                         </figure>
                     </div>
@@ -230,7 +230,7 @@ https://templatemo.com/tm-544-comparto
                             <figcaption>
                                 <h2>Originality  <span>Tag</span></h2>
                                 <p>Check out the authentic tag.</p>
-                                <a href="#">Order Now</a>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">Order Now</a>
                             </figcaption>
                         </figure>
                     </div>
@@ -240,7 +240,7 @@ https://templatemo.com/tm-544-comparto
                             <figcaption>
                                 <h2>waterproof <span>sealed </span></h2>
                                 <p>.</p>
-                                <a href="#">Order Now</a>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?usp=sf_link">Order Now</a>
                             </figcaption>
                         </figure>
                     </div>
@@ -250,23 +250,7 @@ https://templatemo.com/tm-544-comparto
             <h2 class="tm-text-white tm-contact-title">Fill The Form Below to Place Your Order</h2>
             
                 <div class="contact-form-outer">
-                    <form id="contact-form" action="" method="POST" class="tm-bg-color-6 tm-contact-form">
-                        <div class="form-group">
-                            <input type="text" name="name" class="form-control" placeholder="Name" required="" />
-                        </div>
-                        <div class="form-group">
-                            <input type="email" name="email" class="form-control" placeholder="Email" required="" />
-                        </div>
-                        <div class="form-group">
-                            <textarea rows="4" name="message" class="form-control" placeholder="Message..."
-                                required=""></textarea>
-                        </div>
-                        <div>
-                            <button type="submit" class="ml-auto tm-btn tm-btn-3">
-                                Send
-                            </button>
-                        </div>
-                    </form>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?embedded=true" width="640" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                 </div>
                 
             </div>
