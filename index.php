@@ -29,6 +29,7 @@ https://templatemo.com/tm-544-comparto
             <div class="tm-nav-container tm-bg-color-8">
                 <nav class="tm-nav" id="tm-nav">
                     <ul>
+                        <p>Offer Available only today </p>
                         <!--
                         <li class="tm-nav-item current">
                             <a href="#about" class="tm-nav-link">
