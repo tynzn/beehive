@@ -43,7 +43,7 @@ https://templatemo.com/tm-544-comparto
     <a id="button"><i class="fas fa-angle-up fa-2x"></i></a>
     <div class="container-fluid">
         <div class="tm-site-header tm-mb-1">
-        <div class="elfsight-app-c153f966-ca94-4512-a80a-f0f66c9715c4"></div>
+        
             <div class="tm-site-name-container tm-bg-color-1">
                 <h1 class="tm-text-white">Bee Hive Collections </h1>
             </div>
@@ -81,6 +81,7 @@ https://templatemo.com/tm-544-comparto
                 </nav>
             </div>
         </div>
+        <div class="elfsight-app-c153f966-ca94-4512-a80a-f0f66c9715c4"></div>
         <section class="tm-mb-1" id="about">
             <div class="tm-row tm-about-row">
                 <div class="tm-section-1-l">
