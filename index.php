@@ -271,7 +271,7 @@ https://templatemo.com/tm-544-comparto
             <h2 class="tm-text-white tm-contact-title">Fill The Form Below to Place Your Order</h2>
             
                 <div class="contact-form-outer">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?embedded=true" width="640" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSco1SVNH2PtFWx8pY_TcbXXNu6YbobltcH-26hQZU7j2-QDWQ/viewform?embedded=true" width="360" height="740" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                 </div>
                 
             </div>
