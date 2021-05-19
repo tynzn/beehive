@@ -382,7 +382,7 @@ src="https://www.facebook.com/tr?id=990963895056778&ev=PageView&noscript=1"
         });
     </script><script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-c153f966-ca94-4512-a80a-f0f66c9715c4"></div>>
-<script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="207675790"></script>
+
 
 </body>
 </html>
